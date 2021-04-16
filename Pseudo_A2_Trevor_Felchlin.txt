@@ -1,0 +1,5 @@
+# Get hole number
+# Get the par vlaue for the hole
+# Get the number of strokes it took to complete the hole
+# Determine what their stroke was called
+# Display what name is to the user 
